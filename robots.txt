@@ -3,7 +3,7 @@ User-agent: Mediapartners-Google
 Disallow: 
 
 User-agent: *
-Disallow: /
+
 Allow: /index.html
 Allow: /cources.html
 Allow: /dog-training.html
