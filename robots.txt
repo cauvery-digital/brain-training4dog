@@ -10,4 +10,4 @@ Allow: /dog-training.html
 Allow: /free-ebook-for-dog-training.html
 
 
-Sitemap: https://proven-weightlossmedicine.netlify.app/sitemap.xml
+Sitemap: https://brain-training4dog.netlify.app/sitemap.xml
